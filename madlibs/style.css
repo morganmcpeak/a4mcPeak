@@ -1,0 +1,44 @@
+h1 {
+    font-family: "Alfa Slab One";
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.links {
+    text-decoration: none;
+    font-family: "Didact Gothic";
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+p {
+    font-family: "Didact Gothic";
+    text-align: center;
+}
+button {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+form input {
+padding: 10px;
+margin: 10px;
+background-color: lightsalmon;
+color: darkmagenta;
+border: 3px solid darkorchid;
+}
+
+button {
+    background-color: turquoise;
+    border: 3px solid darkorchid;
+    padding: 5px;
+    text-decoration: none;
+}
